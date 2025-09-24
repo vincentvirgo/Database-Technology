@@ -55,7 +55,7 @@ The database schema consists of eight main entities with clear relationships:
 
 The relationships between these entities are designed to be either One-to-One or Many-to-One to maintain a clean and efficient structure.
 
-<img src="image/ERD_Final.jpeg"  alt="Home Page Screenshot 3">
+<img src="ERD_Final.jpeg"  alt="Home Page Screenshot 3">
 
 ## 📈 Evaluation and Future Improvements
 
