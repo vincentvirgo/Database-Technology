@@ -2,14 +2,6 @@
 
 This project focuses on designing and implementing a structured database to analyze the supply chain and distribution of key agricultural products such as coffee, rice, and corn. The goal is to provide a solid foundation for understanding demand patterns and optimizing logistical efficiency.
 
-## 👥 Group Members
-
-* **Dylan Lorrenzo** (2702213871)
-* **Vincent Virgo** (2702250381)
-* **Richard O'Bryan** (2702210440)
-* **Marvel Michael** (2702217131)
-* **Darren Shane Khonardy** (2702217674)
-
 ---
 
 ## 🎯 Project Objectives
